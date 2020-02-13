@@ -1,0 +1,52 @@
+header{
+  height: 100px;
+  width: 100vw;
+  background-color: grey;
+}
+
+.blue-box{
+  height:80px ;
+  width: 80px;
+  background-color: blue;
+  display: inline-block;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  
+
+}
+
+section{
+  height: 250px;
+  width: 100vw;
+  background-color: cornsilk;
+}
+
+.text-box{
+  padding-top: 50px;
+  padding-left: 500px;
+}
+
+.blue-row{
+  height: 100px;
+  width: 100vw;
+  background-color: blue;
+}
+
+.cyan-row{
+  height: 100px;
+  width: 100vw;
+  background-color: cyan;
+}
+
+.green-row{
+  height: 100px;
+  width: 100vw;
+  background-color: green;
+}
+
+.yellow-row{
+  height: 100px;
+  width: 100vw;
+  background-color: yellow;
+}

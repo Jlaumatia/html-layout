@@ -1,0 +1,28 @@
+body{
+margin: 0;
+height:45vh;
+width: 100%;
+background-color: rgb(179, 179, 179);
+
+}
+
+.header{
+  width:250%;
+  height: 20vh;
+  background-color: slateblue;
+
+}
+
+.main-content{
+  margin: 0 auto;
+  width: 70%;
+  height: 66vh;
+  background-color: rgb(248, 244, 244);
+}
+
+.footer{
+  margin: auto;
+  width: 70%;
+  height: 70vh;
+  background-color:blue;
+}
